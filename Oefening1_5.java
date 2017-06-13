@@ -1,14 +1,17 @@
 //average speed
 
+
 public class Oefening1_5 {
     public static void main(String[] args) {
         int runningSpeed = 14;
-        double runningSpeedMile = runningSpeed * 0.621371d;
-        float runningTime = 45.30f;
-        float runningHour = 45.30f * 100 / 60;
-        double runningHourFull = runningSpeedMile * runningTime / 100;
-        double runningSpeedHour = runningSpeedMile + runningHourFull;
-        System.out.println("The runner runs " + runningSpeedHour + " miles per hour!");
-    }
+        int tijd = 45 * 60 + 30;
 
+        double tijdInUren = tijd / 3600d;
+        double kilometerPerUur = runningSpeed / tijdInUren;
+
+        double mijlPerUur = kilometerPerUur / 1.6;
+        double eindResultaat = Math.round(mijlPerUur * 100) / 100d;
+        System.out.println("The runner runs " + eindResultaat + " miles per hour!");
+
+    }
 }
