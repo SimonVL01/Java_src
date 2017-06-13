@@ -9,8 +9,8 @@ public class Oefening4_2 {
 
         for (int i = 1; i < monthCount; i++) {
             monthValue = bankIncrease + interestIncrease;
-            if (i = 6) {
-                System.out.println("monthValue");
+            if (i == 6) {
+                System.out.println(monthValue);
             }
         }
         System.out.print(monthValue);

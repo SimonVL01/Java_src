@@ -8,6 +8,13 @@ public class Oefening4_4 {
 
         for (int i = 1; i <= monthsYear; i++) {
            monthlyGain = startValue + (interest + 1);
+
+           if (i == 6) {
+               System.out.println(monthlyGain);
+           }
+           if (i == 12) {
+               System.out.println(monthlyGain);
+           }
         }
     }
 }
