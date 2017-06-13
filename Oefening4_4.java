@@ -1,19 +1,25 @@
+import java.util.*;
+
 public class Oefening4_4 {
     public static void main(String[] args) {
-        int startValue = 100;
-        int monthlyGain;
-        int monthsYear = 12;
-        int interestPercentage = 5;
-        int interest = interestPercentage / monthsYear;
+        Scanner s = new Scanner(System.in);
 
-        for (int i = 1; i <= monthsYear; i++) {
-           monthlyGain = startValue + (interest + 1);
+        System.out.println("Geef uw maandelijke spaarbedrag in.");
+
+        int startValue = 0;
+        double monthlyGain = s.nextInt();
+        double interestPercentage = 0.05f;
+        double interest = interestPercentage / 12;
+        double totalSavings = 0;
+
+        for (int i = 1; i <= 12; i++) {
+           totalSavings = (totalSavings + monthlyGain) * (interest + 1);
 
            if (i == 6) {
-               System.out.println(monthlyGain);
+               System.out.println(totalSavings);
            }
            if (i == 12) {
-               System.out.println(monthlyGain);
+               System.out.println(totalSavings);
            }
         }
     }
