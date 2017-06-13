@@ -6,5 +6,6 @@ public class Oefening1_2 {
 
         double runner = runningSpeed.runningSpeed(14, 35);
         System.out.println(runner);
+        //lijntje commentaar
     }
 }
