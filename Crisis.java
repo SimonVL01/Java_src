@@ -11,24 +11,33 @@ public class Crisis extends JFrame {
     public Crisis() {
         super("Crisis");
         setLookAndFeel();
-        setSize(600, 150);
-        BorderLayout crisisLayout = new BorderLayout();
-        setLayout(crisisLayout);
+        setSize(300, 200);
+        //BorderLayout crisisLayout = new BorderLayout();
+        //setLayout(crisisLayout);
         //GridLayout grid = new GridLayout(3, 2);
         //setLayout(grid);
+
+
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         //FlowLayout flo = new FlowLayout();
         //setLayout(flo);
+
+
         panicButton = new JButton("Panic");
         dontPanicButton = new JButton("Don't panic");
         blameButton = new JButton("Blame others");
         mediaButton = new JButton("Nofify the media");
         saveButton = new JButton("Save Yourself");
-        add(panicButton, BorderLayout.NORTH);
-        add(dontPanicButton, BorderLayout.SOUTH);
-        add(blameButton, BorderLayout.EAST);
-        add(mediaButton, BorderLayout.WEST);
-        add(saveButton, BorderLayout.CENTER);
+
+        JPanel pane = new JPanel();
+        BoxLayout box = new BoxLayout(pane, BoxLayout.Y_AXIS);
+        pane.setLayout(box);
+        pane.add(panicButton);
+        pane.add(dontPanicButton);
+        pane.add(blameButton);
+        pane.add(mediaButton);
+        pane.add(saveButton);
+        add(pane);
         setVisible(true);
 
     }
@@ -41,6 +50,11 @@ public class Crisis extends JFrame {
         } catch (Exception exc) {
             //ignore error
         }
+    }
+
+    public Insets getInsets() {
+        Insets squeeze = new Insets(50, 15, 50, 15);
+        return squeeze;
     }
 
     public static void main(String[] args) {

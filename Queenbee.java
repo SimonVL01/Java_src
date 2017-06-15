@@ -40,10 +40,6 @@ public class Queenbee {
                 } else if (future == 3) {
                     Queenbee newQueen = new Queenbee("Elizabeth II", 80);
                     System.out.println("God save the queen!");
-                    //while(!newQueen.haveAllEggsAlreadyComeOut()) {
-                    //    System.out.println("Keep growing these eggs");
-                    //    newQueen.eggGrowth();
-                    //}
                 }
             }
         }
