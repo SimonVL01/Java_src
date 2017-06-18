@@ -1,13 +1,10 @@
-package java24hours;
-
-/**
- * Created by simon on 15/06/17.
- */
+/*package java24hours;
 
 import java.awt.*;
 import javax.swing.*;
 
 public class LottoMadness extends JFrame {
+    lottoEvent lotto = new lottoEvent(this);
 
     JPanel row1 = new JPanel();
     ButtonGroup option = new ButtonGroup();
@@ -46,6 +43,12 @@ public class LottoMadness extends JFrame {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         GridLayout layout = new GridLayout(5, 1, 10, 10);
         setLayout(layout);
+
+        quickpick.addItemListener(lotto);
+        personal.addItemListener(lotto);
+        stop.addActionListener(lotto);
+        play.addActionListener(lotto);
+        reset.addActionListener(lotto);
 
         FlowLayout layout1 = new FlowLayout(FlowLayout.CENTER, 10, 10);
         option.add(quickpick);
@@ -117,4 +120,4 @@ public class LottoMadness extends JFrame {
         LottoMadness frame = new LottoMadness();
     }
 
-}
+}*/

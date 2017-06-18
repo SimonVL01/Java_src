@@ -1,94 +1,98 @@
-/*
+
 
 package oefeningen.versie1.versie7;
 
-
 public class Oefening7_2_1 {
+    private int x = 0;
+    private int y = 0;
+    private int myPointX = 0;
+    private int myPointY = 0;
 
-        private int x, y;
-
-        public Oefening7_2_1(int x, int y) {
-            this.x = x;
-            this.y = y;
-
-            public int getX() {
-                return x;
-            }
-
-            public int setX(int xValue) {
-                this.x = xValue;
-                return x;
-            }
-
-            public int getY() {
-                return y;
-            }
-
-            public int setY(int yValue) {
-                this.y = yValue;
-                return y;
-            }
-
-            public void setXY(int xValue, int yValue) {
-                this.x = xValue;
-                this.y = yValue;
-            }
-
-    public void anotherDistancePoint() {
-        MyPoint Pointer = new MyPoint(int xMine, int yMine);
-
-
-        this.x = x;
-        this.y = y;
-
-        int totalXDistance = x - xMine;
-        if (totalXDistance < 0) {
-            totalXDistance += totalXDistance * 2;
-        }
-        int totalYDistance = y - yMine;
-        if (totalYDistance < 0) {
-            totalYDistance += totalYDistance * 2;
-        }
-
-    //Custom toString() Method.
-    public String toString() {
-        return "X=" + x + " " + "Y=" + y;
-    }
-
-    public class NoArg() {
+    public Oefening7_2_1() {
         x = 0;
         y = 0;
     }
 
-    class MyPoint(int xMine, int yMine) {
-        xMine = this.xMine;
-        yMine = this.yMine;
+    public int getX() {
+        return x;
     }
 
-    public void distancePoint(int x, int y) {
-        x = this.x;
-        y = this.y;
-        int pointDistance = x - y;
-        System.out.println("The distance from X: " + x
-                + " to Y: " + y + " is " + pointDistance);
+    public int getY() {
+        return y;
     }
 
+    public void setX(int x) {
+        this.x = x;
+    }
 
-        public static void main(String args[]) {
-            Oefening7_2_1 point = new Oefening7_2_1(10, 10);
+    public void setY(int y) {
+        this.y = y;
+    }
 
-            NoArg pointZero = new NoArg();
+    public int getMyPointX() {
+        return myPointX;
+    }
 
-            MyPoint pointVariable = new MyPoint(40, 25);
+    public void setMyPointX() {
+        this.myPointX = myPointX;
+    }
 
-            System.out.println(Oefening7_2_1.setX());
+    public int getMyPointY() {
+        return myPointY;
+    }
 
-            System.out.println(point);
+    public void setMyPointY() {
+        this.myPointY = myPointY;
+    }
 
-            String s = point + " testing";
-            System.out.println(s);
+    public Oefening7_2_1(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
+    public void setXY(int x, int y) {
+        this.x = x;
+        this.y = y;
+    }
 
+    public String toString() {
+        return "X value: " + x + "\nY value: " + y;
+    }
+    public void distance(int x, int y) {
+
+        x = this.x - x;
+        if(x < 0) {
+           x = Math.abs(x);
         }
+        y = this.y - y;
+        if(y < 0) {
+            y = Math.abs(y);
+        }
+
+        System.out.println("X value distance: " + this.x + "\nY value distance: " + this.y);
     }
 
-    */
+    public void distanceOverload(int x, int y, int myPointX, int myPointY) {
+        this.x = x;
+        this.y = y;
+        this.myPointX = myPointX;
+        this.myPointY = myPointY;
+
+        int distanceX = x - myPointX;
+        if(distanceX < 0) {
+            distanceX = Math.abs(distanceX);
+        }
+        int distanceY = y - myPointY;
+        if(distanceY < 0) {
+            distanceY = Math.abs(distanceY);
+        }
+
+        int totalDistance = distanceX - distanceY;
+        if(totalDistance < 0) {
+            totalDistance = Math.abs(totalDistance);
+        }
+        System.out.println("distanceX: " + distanceX +
+                "\ndistanceY: " + distanceY + "\ntotalDistance " + totalDistance);
+    }
+
+
+}
