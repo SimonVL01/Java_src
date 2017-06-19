@@ -1,6 +1,6 @@
 
 
-package oefeningen.versie1.versie7;
+package oefeningen.versie1.versie7.versie7_2;
 
 
 public class TestMyCircle {
