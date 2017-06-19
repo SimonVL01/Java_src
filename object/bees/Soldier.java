@@ -3,8 +3,8 @@ package object.bees; /**
  */
 import java.util.*;
 
-public class Soldier {
-    public String name = "name";
+public class Soldier extends Bee {
+    public String name = getName();
     private int health = 100;
     private int armour = 100;
     private String[] availableWeapons = new String[] {"Stinger", "Chainsaw", "bazooka"};

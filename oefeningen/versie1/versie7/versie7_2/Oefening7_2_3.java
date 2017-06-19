@@ -1,13 +1,13 @@
 
 
-package oefeningen.versie1.versie7;
+package oefeningen.versie1.versie7.versie7_2;
 
-public class Oefening7_3_3 {
+public class Oefening7_2_3 {
     Oefening7_2_1 v1 = new Oefening7_2_1(50, 76);
     Oefening7_2_1 v2 = new Oefening7_2_1(43, 64);
     Oefening7_2_1 v3 = new Oefening7_2_1(44, 32);
 
-    public Oefening7_3_3(int x1, int y1, int x2, int y2, int x3, int y3) {
+    public Oefening7_2_3(int x1, int y1, int x2, int y2, int x3, int y3) {
         v1.setX(x1);
         v1.setY(y1);
         v2.setX(x2);

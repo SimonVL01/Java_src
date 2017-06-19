@@ -4,7 +4,7 @@ package object.bees; /**
 
 import java.util.*;
 
-public class Queenbee {
+public class Queenbee extends Bee {
     private String name = "name";
     private int broodingCapacity = 100;
     private int[] laidEggs = new int[]{0, 0, 0};
@@ -35,7 +35,7 @@ public class Queenbee {
                     Soldier soldierex = new Soldier("Soldier1", 80, 90, 1);
                     System.out.println("A new soldier is created");
                 } else if (future == 2) {
-                    Worker workerex = new Worker("Worker1", 80);
+                  //  Worker workerex = new Worker("Worker1", 80);
                     System.out.println("A new worker is created");
                 } else if (future == 3) {
                     Queenbee newQueen = new Queenbee("Elizabeth II", 80);

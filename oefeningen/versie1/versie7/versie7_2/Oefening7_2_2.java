@@ -1,6 +1,6 @@
 
 
-package oefeningen.versie1.versie7;
+package oefeningen.versie1.versie7.versie7_2;
 
 public class Oefening7_2_2 {
     private Oefening7_2_1 center = new Oefening7_2_1(50, 75);

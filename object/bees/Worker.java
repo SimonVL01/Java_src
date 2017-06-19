@@ -3,19 +3,25 @@ package object.bees;
 /**
  * Created by vdabcursist on 15/06/2017.
  */
-public class Worker {
+public class Worker extends Bee {
     private String name = "Maya";
     private int capacity = 100;
     private int carriage = 0;
 
     public Worker(String name, int capacity) {
-        this.name = name;
+        this(name, capacity, 0);
+    }
+
+    public Worker(String name, int capacity, int carriage) {
+        super.setName(name);
         this.capacity = capacity;
         this.carriage = carriage;
     }
 
+
+
     public boolean gatherNectar() {
-        System.out.println("object.bees.Worker " + name +" is gathering some nectar.");
+        System.out.println("object.bees.Worker " + name + " is gathering some nectar.");
         carriage += capacity;
         if (carriage == capacity) {
             System.out.println(name + " is Full.");
