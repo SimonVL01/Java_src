@@ -1,40 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae9de918-77d3-4e37-b40b-dfbc350f4ebf" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object/bees/Bee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/object/bees/Insect.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/DemoX.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_4/Oefening7_4_1.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie7/Oefening7_2_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie7/Oefening7_2_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie7/Oefening7_3_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie7/TestMyCircle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie7/TestMyPoint.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie7/TestMyTriangle.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/MyPoint.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/MyPoint.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/Oefening7_2_1.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/Oefening7_2_1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/Oefening7_2_2.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/Oefening7_2_2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/Oefening7_3_3.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/Oefening7_2_3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/TestMyCircle.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyCircle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/TestMyPoint.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyPoint.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/TestMyTriangle.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyTriangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/object/bees/BeeHive.class" afterPath="$PROJECT_DIR$/out/production/Java_src/object/bees/BeeHive.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/object/bees/Queenbee.class" afterPath="$PROJECT_DIR$/out/production/Java_src/object/bees/Queenbee.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/object/bees/Soldier.class" afterPath="$PROJECT_DIR$/out/production/Java_src/object/bees/Soldier.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/object/bees/Worker.class" afterPath="$PROJECT_DIR$/out/production/Java_src/object/bees/Worker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie5/versie5_3/Oefening5_3_5verbeterd.class" afterPath="$PROJECT_DIR$/out/production/Java_src/oefeningen/versie1/versie5/versie5_3/Oefening5_3_5verbeterd.class" />
+    <list default="true" id="ae9de918-77d3-4e37-b40b-dfbc350f4ebf" name="Default" comment="Werk Java 13/06">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/object/bees/BeeHive.java" afterPath="$PROJECT_DIR$/object/bees/BeeHive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/object/bees/Queenbee.java" afterPath="$PROJECT_DIR$/object/bees/Queenbee.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/object/bees/Soldier.java" afterPath="$PROJECT_DIR$/object/bees/Soldier.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/object/bees/Worker.java" afterPath="$PROJECT_DIR$/object/bees/Worker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Java_src/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Oefening7_3_2.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Oefening7_3_2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -105,7 +74,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Square.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
@@ -251,13 +220,13 @@
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/Square.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7_3/Square.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_4/Oefening7_4_1.java" />
-        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyTriangle.java" />
         <option value="$PROJECT_DIR$/object/bees/Queenbee.java" />
         <option value="$PROJECT_DIR$/object/bees/BeeHive.java" />
         <option value="$PROJECT_DIR$/object/bees/Worker.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" />
       </list>
     </option>
   </component>
@@ -801,7 +770,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497531790437</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Werk Java 13/06">
+      <created>1497880602921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497880602921</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -811,13 +787,13 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1097,14 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-43">
@@ -1145,6 +1113,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="108" lean-forward="false" selection-start-line="23" selection-start-column="108" selection-end-line="23" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
           <folding />
         </state>
       </provider>

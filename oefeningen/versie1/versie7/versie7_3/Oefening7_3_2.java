@@ -14,6 +14,9 @@ public class Oefening7_3_2 extends Circle {
         double surface = area * height;
         return surface;
     }
-
+    public void Circle() {
+       double radius = super.getRadius();
+       String color = super.getColor();
+    }
 
 }
