@@ -1,6 +1,6 @@
 package oefeningen.versie1.versie5.versie5_3;
 
-public class Offending5_3_2 {
+public class Oefening5_3_2 {
     public static void main(String[] args) {
         int iX = 1;
         int iY = 1;
