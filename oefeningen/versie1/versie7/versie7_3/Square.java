@@ -5,14 +5,19 @@ package oefeningen.versie1.versie7.versie7_3;
  */
 
 public class Square extends Rectangle {
-    private double side = 5.6;
-    public Square() {
+    private double side;
 
+    public Square() {
+    side = 1.0;
     }
     public Square(double side, String color, boolean filled) {
-        this.side = side * 4;
+        super(side, side);
         super.setColor(color);
         super.setFilled(filled);
+    }
+
+    public double getSide() {
+        return getWidth();
     }
 
     public void setSide(double side) {
@@ -21,7 +26,7 @@ public class Square extends Rectangle {
     }
 
     public String toString() {
-        return "A square with side: " + side + " which is a subclass of " + super.getClass().getSuperclass().getSimpleName();
+        return "A square with side: " + getSide() + " which is a subclass of " + super.getClass().getSuperclass().getSimpleName();
     }
 
     public static void main(String[] args) {

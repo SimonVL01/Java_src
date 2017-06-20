@@ -8,7 +8,13 @@ public class Rectangle extends Oefening7_3_1 {
     private double length = 11.2;
 
     public Rectangle() {
-        width = 1.0;
+        super();
+        this.width = 1;
+        this.length = 1;
+    }
+
+    public Rectangle(double width, double height) {
+        this.width = 1.0;
         length = 1.0;
     }
     public double getWidth() {
@@ -30,7 +36,7 @@ public class Rectangle extends Oefening7_3_1 {
     }
 
     public double getPerimeter() {
-        double getPerimeter = (length * 2) + (width * 2);
+        double getPerimeter = 2 * (length + width);
         return getPerimeter;
     }
 
