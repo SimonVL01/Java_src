@@ -38,5 +38,3 @@ public class TableFrame extends JFrame {
         TableFrame frame = new TableFrame();
     }
 }
-
-
