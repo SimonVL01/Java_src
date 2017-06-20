@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae9de918-77d3-4e37-b40b-dfbc350f4ebf" name="Default" comment="Werk Java 13/06">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/Exception.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/Integerren.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/RefVsValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Resizable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ResizableCircle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ShapeRunner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestCircle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestResizableCircle.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Java_src/be/vdab/bees/nurse.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/be/vdab/bees/nurse.java" afterPath="$PROJECT_DIR$/object/bees/nurse.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java" afterPath="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java_src/.idea/workspace.xml" afterPath="$PROJECT_DIR$/out/production/Java_src/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,60 +32,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Oefening7_3_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-43">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#427#428#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#651#652#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Oefening7_3_2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMyTriangle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="37" column="136" lean-forward="true" selection-start-line="37" selection-start-column="136" selection-end-line="37" selection-end-column="136" />
-              <folding>
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="525">
+              <caret line="43" column="51" lean-forward="false" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,52 +45,41 @@
       <file leaf-file-name="Square.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="108" lean-forward="false" selection-start-line="23" selection-start-column="108" selection-end-line="23" selection-end-column="108" />
+            <state relative-caret-position="240">
+              <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BeeHive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/object/bees/BeeHive.java">
+      <file leaf-file-name="Integerren.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/Integerren.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/Exception.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Worker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/object/bees/Worker.java">
+      <file leaf-file-name="RefVsValue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/RefVsValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            <state relative-caret-position="210">
+              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Queenbee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/object/bees/Queenbee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Oefening7_4_1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_4/Oefening7_4_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -130,20 +87,63 @@
       <file leaf-file-name="Circle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+            <state relative-caret-position="496">
+              <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
               <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#222#223#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#364#365#0" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#466#467#0" expanded="true" />
-                <element signature="e#502#503#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#602#603#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCircle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResizableCircle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ResizableCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding>
+                <element signature="e#220#221#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestResizableCircle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestResizableCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Resizable.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Resizable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -176,18 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ifElseExercise.java" />
-        <option value="$PROJECT_DIR$/ifElseOefening.java" />
-        <option value="$PROJECT_DIR$/Primer.java" />
-        <option value="$PROJECT_DIR$/Oefening5_1_2.java" />
-        <option value="$PROJECT_DIR$/Oefening5_2_2.java" />
-        <option value="$PROJECT_DIR$/Oefening5_2_1.java" />
-        <option value="$PROJECT_DIR$/Oefening5_2_4.java" />
-        <option value="$PROJECT_DIR$/Oefening5_2_3.java" />
-        <option value="$PROJECT_DIR$/Oefening5_3_2.java" />
-        <option value="$PROJECT_DIR$/Oefening5_3_1.java" />
-        <option value="$PROJECT_DIR$/Offending5_3_2.java" />
-        <option value="$PROJECT_DIR$/Oefening3XGetal.java" />
         <option value="$PROJECT_DIR$/Arrays.java" />
         <option value="$PROJECT_DIR$/Oefening3XGetalArray.java" />
         <option value="$PROJECT_DIR$/Array.java" />
@@ -224,17 +212,29 @@
         <option value="$PROJECT_DIR$/object/bees/Queenbee.java" />
         <option value="$PROJECT_DIR$/object/bees/BeeHive.java" />
         <option value="$PROJECT_DIR$/object/bees/Worker.java" />
-        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ShapeRunner.java" />
         <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java" />
+        <option value="$PROJECT_DIR$/object/bees/nurse.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestCircle.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Resizable.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_3.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ResizableCircle.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestResizableCircle.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/Integerren.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/RefVsValue.java" />
+        <option value="$PROJECT_DIR$/oefeningen/versie1/Exception.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1138" />
-    <option name="y" value="295" />
-    <option name="width" value="1356" />
-    <option name="height" value="1000" />
+    <option name="x" value="698" />
+    <option name="y" value="62" />
+    <option name="width" value="1509" />
+    <option name="height" value="1109" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -252,6 +252,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -317,50 +318,9 @@
               <option name="myItemId" value="versie7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="versie7_3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="versie1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="versie7" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="versie7_2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -391,85 +351,95 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Square">
-    <configuration default="false" name="BeeHive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="be.vdab.bees.BeeHive" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_src" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Array" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_src" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Oefening5_3_5verbeterd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="oefeningen.versie1.versie5.versie5_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.versie5.versie5_3.Oefening5_3_5verbeterd" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_src" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DemoX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="oefeningen.versie1.versie7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.versie7.DemoX" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Java_src" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Square" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.RefVsValue">
+    <configuration default="false" name="ShapeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="oefeningen.versie1.versie7.versie7_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.versie7.versie7_3.Square" />
+      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.versie7.versie7_3.ShapeRunner" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_src" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="oefeningen.versie1.versie7.versie7_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.versie7.versie7_3.TestCircle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_src" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestResizableCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="oefeningen.versie1.versie7.versie7_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.versie7.versie7_3.TestResizableCircle" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_src" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Integerren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="oefeningen.versie1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.Integerren" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Java_src" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RefVsValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="oefeningen.versie1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="oefeningen.versie1.RefVsValue" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -687,19 +657,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BeeHive" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Array" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Oefening5_3_5verbeterd" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DemoX" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Square" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ShapeRunner" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestCircle" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestResizableCircle" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Integerren" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RefVsValue" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Square" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DemoX" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Oefening5_3_5verbeterd" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BeeHive" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Array" />
+        <item index="0" class="java.lang.String" itemvalue="Application.RefVsValue" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Integerren" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestResizableCircle" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestCircle" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ShapeRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -777,30 +747,36 @@
       <option name="project" value="LOCAL" />
       <updated>1497880602921</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Werk Java 13/06">
+      <created>1497880880201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1497880880201</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1138" y="295" width="1356" height="1000" extended-state="0" />
+    <frame x="698" y="62" width="1509" height="1109" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884616" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32884616" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18820411" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -813,6 +789,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="1078" y="594" width="257" height="262" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -868,15 +845,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Oefening1_2.java" />
-    <entry file="file://$PROJECT_DIR$/Primer.java" />
-    <entry file="file://$PROJECT_DIR$/Oefening5_1_1.java" />
-    <entry file="file://$PROJECT_DIR$/Oefening5_1.java" />
-    <entry file="file://$PROJECT_DIR$/Oefening5_1_2.java" />
-    <entry file="file://$PROJECT_DIR$/Oefening5_2_2.java" />
-    <entry file="file://$PROJECT_DIR$/Oefening5_2_1.java" />
-    <entry file="file://$PROJECT_DIR$/Oefening5_2_4.java" />
-    <entry file="file://$PROJECT_DIR$/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/Oefening5_2_3.java" />
     <entry file="file://$PROJECT_DIR$/Oefening5_3_1.java" />
     <entry file="file://$PROJECT_DIR$/Offending5_3_2.java" />
@@ -895,19 +863,10 @@
     <entry file="file://$PROJECT_DIR$/be/vdab/bees/Queenbee.java" />
     <entry file="file://$PROJECT_DIR$/Worker.java" />
     <entry file="file://$PROJECT_DIR$/be/vdab/bees/Soldier.java" />
-    <entry file="file://$PROJECT_DIR$/be/vdab/bees/nurse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie5/versie5_3/Oefening5_3_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,7 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -939,7 +896,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -947,7 +903,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
           <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,13 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,18 +917,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/versie7_2/Oefening7_3_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/versie7_2/Oefening7_3_3.java" />
     <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyCircle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -993,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1016,14 +955,14 @@
     <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_2/TestMyTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/object/bees/Queenbee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
+        <state relative-caret-position="555">
           <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
           <folding />
         </state>
@@ -1039,11 +978,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/object/bees/Worker.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        <state relative-caret-position="150">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
           <folding>
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#1045#1046#0" expanded="false" />
+            <element signature="e#1076#1077#0" expanded="false" />
+            <element signature="e#1233#1234#0" expanded="false" />
+            <element signature="e#1264#1265#0" expanded="false" />
+            <element signature="e#1295#1296#0" expanded="false" />
+            <element signature="e#1322#1323#0" expanded="false" />
+            <element signature="e#1362#1363#0" expanded="false" />
+            <element signature="e#1394#1395#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#207#208#0" expanded="false" />
+            <element signature="e#240#241#0" expanded="false" />
+            <element signature="e#394#395#0" expanded="false" />
+            <element signature="e#422#423#0" expanded="false" />
+            <element signature="e#464#465#0" expanded="false" />
+            <element signature="e#498#499#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#560#561#0" expanded="false" />
+            <element signature="e#605#606#0" expanded="false" />
+            <element signature="e#641#642#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1056,71 +1020,133 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/object/bees/nurse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="37" column="136" lean-forward="true" selection-start-line="37" selection-start-column="136" selection-end-line="37" selection-end-column="136" />
-          <folding>
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#556#557#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-43">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#687#688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="35" lean-forward="false" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#255#256#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="108" lean-forward="false" selection-start-line="23" selection-start-column="108" selection-end-line="23" selection-end-column="108" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="210">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#574#575#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ShapeRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Oefening7_3_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="43" column="51" lean-forward="false" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Resizable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/ResizableCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/TestResizableCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/versie7/versie7_3/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/Integerren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/RefVsValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oefeningen/versie1/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
