@@ -15,10 +15,11 @@ public class Oefening11_3 {
 
             try {
                 int result = j / 0;
-                throw new ArithmeticException("Divide doesn't work!");
             } catch (ArithmeticException exc) {
                 System.out.println("You can' divide by zero!");
                 exc.printStackTrace();
+                throw exc;
+
 
             }
     }

@@ -4,39 +4,29 @@ package oefeningen.versie1.Versie10;
  * Created by simon on 21/06/17.
  */
 
-public class Oefening10_a {
+public class Oefening10_a extends ArithmeticException {
 
 
 
-    public void process(int x, int y) {
+    public void process(int x, int y) throws ArithmeticException {
         if ((x <= 0) || (y <= 0)) {
-            try {
-                throw new ArithmeticException("Invalid number");
-            }  catch(ArithmeticException exc) {
-                System.out.println("Give a number higher than zero.");
-                throw exc;
-            }
+                throw new ArithmeticException("Give a number higher than zero.");
         } else {
             int result = x * y;
             System.out.println(result);
         }
     }
 
-    public void throwProcess() throws ArithmeticException {
-            this.process(-5, 70);
+    public Oefening10_a(int x, int y) throws ArithmeticException {
+            process(x, y);
     }
 
     public static void main(String[] args) {
-        int x = 0;
-        int y = 5;
-
-        Oefening10_a newSum = new Oefening10_a();
 
         try {
-
-            newSum.throwProcess();
+            throw new Oefening10_a(-5, 70);
         } catch (ArithmeticException exc) {
-            System.out.println("Try again.");
+            System.out.println(exc);
         }
 
     }
