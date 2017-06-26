@@ -1,15 +1,10 @@
 package oefeningen.versie1.versie9;
 
 
-public abstract class Cloth implements Oefening9 {
+public abstract class Cloth implements PrintJob {
 
-    public void print(int x) {
-        System.out.println(x);
+    public void print(int y) {
+        System.out.print(y);
     }
 
-    class subClass1 implements Oefening9 {
-        public void print() {
-
-        }
-    }
 }
