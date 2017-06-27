@@ -1,3 +1,5 @@
+
+
 package java24hours;
 
 import java.io.*;
@@ -32,10 +34,3 @@ public class ConfigWriter {
         ConfigWriter cw = new ConfigWriter();
     }
 }
-
-File configFile = new File("config.dat");
-FileInputStream inStream = new FileInputStream(configFile);
-Properties config = new Properties();
-config.load(inStream);
-
-String username = config.getProperty("username");
