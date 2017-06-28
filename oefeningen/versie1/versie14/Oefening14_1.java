@@ -1,3 +1,5 @@
+/*
+
 package oefeningen.versie1.versie14;
 
 import org.joda.time.Days;
@@ -23,3 +25,5 @@ public class Oefening14_1 {
 
     }
 }
+
+*/
