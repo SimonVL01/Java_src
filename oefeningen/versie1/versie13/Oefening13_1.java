@@ -1,40 +1,44 @@
-/*
-
 package oefeningen.versie1.versie13;
 
 import java.util.ArrayList;
 
-public class Oefening13_1 implements Comparable {
-    private int x;
-    private int y;
-    ArrayList<Oefening13_1> point = new ArrayList<Oefening13_1>();
+public class Oefening13_1 implements Comparable<Oefening13_1> {
+    private double x;
+    private double y;
 
-    public Oefening13_1(int x, int y) {
+    public double getX() {
+        return x;
+    }
+
+    public void setX(double x) {
+        this.x = x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public void setY(double y) {
+        this.y = y;
+    }
+
+    @Override
+    public int compareTo(Oefening13_1 o) {
+        if (this.x != o.x) {
+            return (int) (this.x - o.x);
+        } else {
+            return (int) (this.y - o.y);
+        }
+
+    }
+
+    public String toString() {
+        return "(" + x + " " + y + ")";
+    }
+
+    public Oefening13_1(double x, double y) {
         this.x = x;
         this.y = y;
     }
 
-    public void compareX(int x, int y) {
-        if (this.x == x) {
-            compareY(this.x, this.y);
-            if (this.y != y) {
-
-            }
-        } else {
-            //
-        }
     }
-
-    public void compareY(int x, int y) {
-        if (this.y == y) {
-            compareX(this.x, this.y);
-            if (this.x != x) {
-
-            }
-        } else {
-            //
-        }
-    }
-}
-
-*/

@@ -26,3 +26,6 @@ public class Oefening13_3 {
     }
 
 }
+
+//retainall
+//removeall
