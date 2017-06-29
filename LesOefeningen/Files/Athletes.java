@@ -1,10 +1,11 @@
 
 package LesOefeningen.Files;
 
+import java.io.*;
 
 public class Athletes extends Thread {
-
     private String name;
+    private Object signal;
 
     private Object token = new Object();
 
@@ -27,6 +28,20 @@ public class Athletes extends Thread {
         }
     } */
 
+   public void FireStartShot() throws InterruptedException {
+       Thread.sleep(1000);
+       System.out.println("On your mark.");
+       Thread.sleep(1000);
+       System.out.println("On start.");
+       Thread.sleep(1000);
+       System.out.println("Go!");
+
+       synchronized (this) {
+           this.notifyAll();
+       }
+
+   }
+
     public void run() {
         int distanceTraveled = 0;
         while(distanceTraveled<100) {
@@ -45,5 +60,4 @@ public class Athletes extends Thread {
             System.out.println("Not running.");
         }
     }
-
-    }
+}
