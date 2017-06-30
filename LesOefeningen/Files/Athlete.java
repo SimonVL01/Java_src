@@ -3,6 +3,9 @@ package LesOefeningen.Files;
 public class Athlete {
 
     public static void main(String[] args) {
+
+
+
             String[] participants = {
                     "Usain Bolt",
                     "Marrison Jones",
